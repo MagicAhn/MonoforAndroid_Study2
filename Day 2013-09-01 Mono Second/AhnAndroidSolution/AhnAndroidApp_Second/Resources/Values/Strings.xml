@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="Hello">Hello Android, Click Me!</string>
+  <string name="ApplicationName">AhnAndroidApp_Second</string>
+  <string name="love">Love Declaration</string>
+  <string name="loveFeng">AhnLoveFeng</string>
+  <string name="love1">Ahn Love Feng</string>
+  <string name="love2">安 Love 凤</string>
+  <string name="love3">小安子爱凤宝宝</string>
+  <string name="loveAhn">FengLoveAhn</string>
+  <string name="love4">feng Love Ahn</string>
+  <string name="love5">凤 Love 安</string>
+  <string name="love6">凤宝宝爱小安子</string>
+  <string name="punish1">罚老公洗碗</string>
+  <string name="punish2">罚老公拖地</string>
+  <string name="feedback">老婆，我好累呀</string>
+</resources>
